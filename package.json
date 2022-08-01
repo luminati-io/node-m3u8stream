@@ -29,7 +29,7 @@
     "lint:fix": "eslint --fix ./src ./test"
   },
   "dependencies": {
-    "miniget": "^4.2.2",
+    "@luminati-io/miniget": "4.2.2-lum.1",
     "sax": "^1.2.4"
   },
   "devDependencies": {

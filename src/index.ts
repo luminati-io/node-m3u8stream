@@ -1,5 +1,5 @@
 import { PassThrough } from 'stream';
-import miniget from 'miniget';
+import miniget from '@luminati-io/miniget';
 import m3u8Parser from './m3u8-parser';
 import DashMPDParser from './dash-mpd-parser';
 import { Callback, Queue } from './queue';
